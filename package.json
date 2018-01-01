@@ -1,0 +1,15 @@
+{
+  "name": "extremelogger",
+  "version": "1.0.0",
+  "description": "a bunch of silly logging animations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logging",
+    "extreme"
+  ],
+  "author": "drigberg",
+  "license": "ISC"
+}
