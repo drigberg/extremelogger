@@ -10,6 +10,14 @@
     "logging",
     "extreme"
   ],
-  "author": "drigberg",
-  "license": "ISC"
+  "author": {
+    "name" : "Daniel Rigberg",
+    "email" : "daniel.rigberg@gmail.com",
+    "url" : "http://www.danielrigberg.com"
+  },
+  "license": "ISC",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/drigberg/extremelogger.git"
+  }
 }
