@@ -313,6 +313,7 @@ module.exports = {
   buildByWord,
   closeIn,
   expand,
+  pause,
   tickertape,
   RollingBar,
   SpinningBar
